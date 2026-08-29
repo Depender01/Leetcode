@@ -13,6 +13,6 @@ class Solution(object):
         while write < len(nums):
             nums[write]=0
             write+=1
-        return write 
+       
         
                 
